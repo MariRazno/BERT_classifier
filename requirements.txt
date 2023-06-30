@@ -1,0 +1,9 @@
+pandas~=1.5.3
+tqdm~=4.65.0
+transformers==4.28.1
+tensorflow
+transformers==4.28.1
+scikit-learn~=1.2.2
+matplotlib~=3.7.1
+numpy==1.22.4
+keras
